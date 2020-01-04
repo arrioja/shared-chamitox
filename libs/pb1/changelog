@@ -1,0 +1,20 @@
+Changelog Version 2.3
+- Rewritten the moveStep function to reduce much traffic if set a large numer of max steps
+
+Changelog Version 2.2
+ - Rewritten progress bar position functions to fix a style bug
+ - Added the addButton() function to display a Label with Button
+ - Added the setBarColor(), setBarBackground() and setLabelColor(), setLabelBackground()
+   functions to change the colors at any time.
+
+Changelog Version 2.1
+ - Rewritten the JavaScript code into functions for better overview and also to reduce traffic
+ - Added the moveMin() and moveNext() functions to restart the bar or move it to the next step
+ - Added the setFrame() function to display a nice window like Frame around the progress bar
+ - Added the addLabel(), setLabelPosition(), setLabelFont() and setLabelValue() functions to 
+   display different Labels like step, percent, crossbar or text.
+
+Changelog Version 2.0:
+ - Rewritten the JavaScript and DHTML code to generate valid HTML 4.01 strict code
+ - Added the setDirection() function to move the progress bar in all directions
+ - Added the hideBar() and unhideBar() functions to hide or unhide the progress bar		
